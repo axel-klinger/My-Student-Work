@@ -1,21 +1,22 @@
 ---
-name: "My OER Course"
+name: "Example Students Work"
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
+  - givenName: "Axel"
+    familyName: "Klinger"
 publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
+  givenName: "Axel"
+  familyName: "Klinger"
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
-inLanguage: "en"
+  - "Solare Wärmegewinne"
+  - "passive Fassade"
+description: "Nachbildung einer Studienarbeit in Markdown"
+inLanguage: "de"
 version: 1.0
-license: "https://creativecommons.org/publicdomain/zero/1.0/"
+license: "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n68
+learningResourceType:
+  - https://w3id.org/kim/hcrt/text
+creativeWorkStatus: Draft
+
