@@ -1,61 +1,34 @@
-# Abbildungsverzeichnis
+# Literaturverzeichnis
 
-Abbildung 1: Deklination und Rektaszension	8
+[1]	DIN 4108, “Wärmeschutz im Hochbau“, 1981
 
-Abbildung 2: Azimut und Höhe	9
+[2] 	DIN V 4108-6, “Berechnung des Jahresheizwärmebedarfs von Gebäuden“, 1995
 
-Abbildung 3: Schnitt der Fassade	11
+[3] 	Wärmeschutzverordnung, 1995
 
-Abbildung 4: Draufsicht der Fassade	11
+[4]	VDI 2078, “Berechnung der Kühllast klimatisierter Räume“, 1996
 
-Abbildung 5: Wärmestrom in den Prototyp über Datum und Tageszeit	13
+[5] 	Kasten, F., “Parametrisierung der Globalstrahlung durch Bedeckungsgrad und Trübungsfaktor“, 1983
 
-Abbildung 6: Wärmestrom auf Schwarz	14
+[6] 	dtv-Atlas zur Astronomie,  1990
 
-Abbildung 7: Wärmestrom auf Spiegel	14
+[7] 	DIN 5030-2, “Spektrale Strahlungsmessung“ Tabelle 2, 1982
 
-Abbildung 8: Natriumhochdrucklampe	15
+[8] 	DIN IEC 584, 1983
 
-Abbildung 9: Messwerterfassungsanlage	16
+[9] 	DIN 67507, “Transmissions- und Durchlassgrade“, 1980
 
-Abbildung 10: Aufbau Vorversuch	17
+[10] 	DIN 1301, “Einheiten“, 1993
 
-Abbildung 11: Befestigung der Thermoelemente	17
+[11] 	Hohmann/Setzer, “Bauphysikalische Formeln und Tabellen“, 1997
 
-Abbildung 12: Spektralverteilung Sonnenlicht nach [9] und  Lampe laut Herstellerangaben	18
+[12] 	Blümel/Hollan/Kähler/Peter, “Entwicklung von Testreferenzjahren“, 1986
 
-Abbildung 13: Intermezzo	19
+[13] 	Schmid, J., “Transparente Wärmedämmung“, 1995
 
-Abbildung 14: Eingangswertversuch	20
+[14] 	Deutscher Wetterdienst, Stationsdatenbank,
+http://www.dwd.de/research/klis/daten/stationen/lex_mirakel.txt
 
-Abbildung 15: Ergebnis des Eingangswertversuchs	20
+[15]	Schultz, P., “Schallschutz, Wärmeschutz, Feuchteschutz und Brandschutz im Innenausbau“, 1996
 
-Abbildung 16: Mittaglicher Sonnenhöhenwinkel im Verlauf eines Jahres bei 51° N	22
-
-Abbildung 17: Anordnung der Messfühler im Prototyp	23
-
-Abbildung 18: Die Wanne ist voll	23
-
-Abbildung 19: Under Pressure	23
-
-Abbildung 20: Anordnung der Lufttemperaturfühler	24
-
-Abbildung 21: Aufbau Hauptversuch, Einstrahlwinkel 62°	25
-
-Abbildung 22: Ansicht Hauptversuch 15°	25
-
-Abbildung 23: Seitenansicht Hauptversuch 15°	25
-
-Abbildung 24: Ergebnis Hauptversuch	26
-
-Abbildung 25: Natriumhochdrucklampe	29
-
-Abbildung 26: Siccatherm - Rot	29
-
-Abbildung 27: Siccatherm - Weiß	30
-
-Abbildung 28: TerrathermDeluxe	30
-
-Abbildung 29: 15° Neigung des Prototyps gegen die Horizontale	31
-
-Abbildung 30: 62° Neigung des Prototyps gegen die Horizontale	31
+[16]	Recknagel/Sprenger/Schramek, “Heizung + Klima Technik 2000“, 1999
